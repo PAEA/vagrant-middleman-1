@@ -31,7 +31,7 @@ Because `middleman server` is running within Vagrant, you have to `vagrant ssh` 
 
 By running `bundle install` from within the `/srv/<PROJECT NAME>` directory within the Vagrant box, this ensures that any updates to the Gemfile or Gemfile.lock will be synced back to your local directory.
 
-See Vagrantfile line 15.
+See [Vagrantfile](https://github.com/angelocordon/vagrant-middleman/blob/master/Vagrantfile#L15).
 
 # Credits
 [Vagrant](http://vagrantup.com/)
