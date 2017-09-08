@@ -34,6 +34,9 @@ By running `bundle install` from within the `/srv/<PROJECT NAME>` directory with
 See [Vagrantfile](https://github.com/angelocordon/vagrant-middleman/blob/master/Vagrantfile#L15).
 
 # Credits
-[Vagrant](http://vagrantup.com/)
-[Middleman](https://github.com/middleman/middleman)
+[Vagrant](http://vagrantup.com/) <br>
+[Middleman](https://github.com/middleman/middleman) <br>
 [Slate](https://github.com/lord/slate)
+
+# License
+Copyright (c) 2010-2017 Angelo Cordon. MIT Licensed, see [LICENSE](https://github.com/angelocordon/vagrant-middleman/blob/master/LICENSE) for details.
